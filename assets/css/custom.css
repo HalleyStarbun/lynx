@@ -1,0 +1,24 @@
+body {
+  background-image: linear-gradient(-45deg, #f3a9b833, #5bcefa33);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #111111;
+  background-rotate: 30deg;
+}
+
+.link-bluesky {
+  background-color: #0070ff;
+}
+
+.link-deviantart {
+  background-color: #1ee49e;
+}
+
+.link-furaffinity {
+  background-color: #FF8000;
+}
+
+.icon-deviantart svg {
+  fill="#FF8000";
+}
